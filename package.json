@@ -1,0 +1,27 @@
+{
+  "name": "sass-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "sass-demo": "./bin/sass-demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smalltwo/sass-demo.git"
+  },
+  "keywords": [
+    "sass-demo"
+  ],
+  "author": "xiaoer",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/smalltwo/sass-demo/issues"
+  }
+}
